@@ -1,6 +1,6 @@
 # Hi! I'm Andres Gonzalez 👋
 
-Systems Engineer, backend developer & ttechnology enthusiast.
+Systems Engineer, backend developer & technology enthusiast.
 
 ## About me 📌
 
